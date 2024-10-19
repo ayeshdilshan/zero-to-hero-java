@@ -2,7 +2,7 @@ package com.everything_in_java.learning.basics;
 
 import java.util.Scanner;
 
-public class Loop {
+public class WhileAndDoWhileLoop {
 
     public static void main(String args[]){
 
