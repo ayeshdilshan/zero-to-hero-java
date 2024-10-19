@@ -39,5 +39,13 @@ public class IFelse {
         }else {
                 System.out.println("you are too young to drive");
         }
+
+        //turnery operator
+
+        int n = 6;
+        int result = 0;
+
+        result = n%2==0 ? 10 : 20;
+        System.out.println("result is: " + result);
     }
 }
