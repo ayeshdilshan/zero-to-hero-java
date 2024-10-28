@@ -5,7 +5,7 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class Van {
+public class Van extends Vehicle {
     private String name;
     private String color;
     private int year;

@@ -1,6 +1,6 @@
 package com.everything_in_java.learning.OOP;
 
-public class Car {
+public class Car extends Vehicle {
 
     private String make;
     private String model;
