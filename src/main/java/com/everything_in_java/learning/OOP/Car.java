@@ -26,4 +26,9 @@ public class Car extends Vehicle {
     public void setMake(String make) {
         this.make = make;
     }
+
+    @Override
+    public void go(){
+        System.out.println("Car begins go");
+    }
 }

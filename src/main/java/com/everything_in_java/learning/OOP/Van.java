@@ -15,4 +15,9 @@ public class Van extends Vehicle {
         this.color = color;
         this.year = year;
     }
+
+    @Override
+    public void go(){
+        System.out.println("Van begins go");
+    }
 }
